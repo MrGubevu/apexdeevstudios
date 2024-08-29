@@ -36,7 +36,7 @@ const Body: React.FC<BodyProps> = ({
      
         <div className='heading-div'>
         <h2 className="h2">
-          Bring Your Vision to Life with ApexDev, Transforming Ideas into Digital Reality
+          Bring Your Vision to Life with ApexDev, Transforming Ideas into Digital Reality...
         </h2>
         </div>
         <div className='hero-container'>
